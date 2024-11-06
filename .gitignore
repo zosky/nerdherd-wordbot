@@ -1,0 +1,6 @@
+dist
+electron
+node_modules
+wordbot-config.ini
+wordbot-config.ini.dev
+words.json
